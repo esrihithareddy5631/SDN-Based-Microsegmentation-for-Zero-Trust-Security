@@ -1,0 +1,17 @@
+# Packet captures and private traffic data
+*.pcap
+*.pcapng
+captures/
+metadata/
+logs/
+__pycache__/
+*.py[cod]
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
