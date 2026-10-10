@@ -1,4 +1,4 @@
-# AI-Based SDN Microsegmentation for Zero Trust Security
+# SDN-Based Microsegmentation for Zero Trust Security
 
 ## Overview
 This project demonstrates network microsegmentation using Software-Defined Networking (SDN). A centralized ONOS controller manages flow rules on an OpenFlow switch to enforce least-privilege communication between hosts.
